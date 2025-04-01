@@ -1,2 +1,2 @@
 # Election-Ad-Spending-Analysis
-Election Ad Spending Analysis via Data Visualization
+Have you ever wondered how much money political parties spend on social media ads to influence voters during elections. If you are highly active on Facebook or Instagram you may have noticed election related ads from various political parties, like BJP and INC. Political parties in India invest heavily in election campaigns, through digital advertisements. I analyzed data from Meta Ads to explore the spending patterns of political parties on Facebook and Instagram during the Indian elections of 2024, broken down by state. In this presentation, we will examine theanalysis of election ad spending using Python and its impact on voting patterns.
